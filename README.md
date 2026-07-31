@@ -49,7 +49,7 @@ smart-expense-tracker/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ankitsm04/smart-expense-tracker
 cd smart-expense-tracker
 ```
 
