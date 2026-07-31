@@ -164,3 +164,15 @@ Invalid requests return **HTTP 422 Unprocessable Entity**.
 * Expense analytics and charts
 * Search functionality
 * Docker support
+
+## Bonus Feature
+
+This project includes **OpenAPI/Swagger documentation** using FastAPI's built-in support.
+
+After starting the server, the interactive API documentation is available at:
+
+* Swagger UI: `http://127.0.0.1:8000/docs`
+* ReDoc: `http://127.0.0.1:8000/redoc`
+
+The documentation is generated automatically from the API routes, request models, response models, and validation rules, allowing the endpoints to be explored and tested directly from the browser.
+
