@@ -1,0 +1,23 @@
+[
+    {
+        "id": "e9b8b9c9-fcad-4fff-8042-865f6b191599",
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "03c6ba48-a5aa-4b59-beeb-d78769c697d0",
+        "title": "Uber",
+        "amount": 300.0,
+        "category": "Travel",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "0e69924c-45aa-4040-94d6-8f48378fca30",
+        "title": "Pizza",
+        "amount": 500.0,
+        "category": "Food",
+        "date": "2026-07-30"
+    }
+]
